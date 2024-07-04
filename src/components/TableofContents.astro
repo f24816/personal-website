@@ -1,0 +1,76 @@
+---
+const { body } = Astro.props;
+
+function slugify(text: string): string {
+  // Remove emojis and other symbols
+  text = text.replace(/\p{Emoji_Presentation}|\p{Extended_Pictographic}/gu, '');
+
+  // Convert to lowercase
+  text = text.toLowerCase();
+
+  // Replace spaces and unwanted characters with hyphens
+  text = text.replace(/[^\p{L}\p{N}\s-]/gu, '').trim();
+  text = text.replace(/[\s_]+/g, '-');
+
+  // Remove leading and trailing hyphens
+  text = text.replace(/^-+|-+$/g, '');
+
+  return text;
+}
+
+// Build table of contents from markdown file
+const subtitles : string[] = body.match(/#+\s+[^\n]+/g);
+
+// If subtitles lenght is null or > 3
+if (subtitles == null || subtitles.length < 3) {
+    return;
+}
+
+// Replace the Markdown heading with an HTML heading depengin on the level
+const headings : string[] = [];
+
+subtitles?.forEach((subtitle : string) => {
+    // Get level by counting the number of # characters
+    const level = subtitle.split("#").length - 1;
+    const name = subtitle.replace("# ", "").replaceAll("#", "");
+    const id = slugify(name);
+    const html = `<li><h${level}><a href="#${id}">${name}</a></h${level}></li>`;
+    headings.push(html);
+});
+
+---
+
+<h4 class="my-0">📑 Table of Contents</h4>
+<ul id="toc" set:html={headings}></ul>
+
+<style is:global lang="scss">
+
+    #toc a {
+        color: rgb(167, 167, 167);
+        font-weight: 400;
+        text-decoration: underline;
+    }
+    #toc {
+        border: 1px solid #303030;
+        padding: 1rem;
+        border-radius: 4px;
+        list-style: none;
+        h1,h2,h3,h4,h5,h6 {
+            font-size: 1rem;
+            padding: 2px;
+            margin: 0;
+        }
+        h3 {
+            padding-left: 2rem;
+        }
+        h4 {
+            padding-left: 4rem;
+        }
+        h5 {
+            padding-left: 6rem;
+        }
+        h6 {
+            padding-left: 8rem;
+        }
+    }
+</style>

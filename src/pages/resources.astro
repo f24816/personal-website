@@ -1,0 +1,27 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { Content } from '../pages/resources.md';
+---
+
+<Layout title="Astro">
+    <div id="centered">
+        <h1>Resources</h1>
+        <Content />
+    </div>
+</Layout>
+
+<style>
+    ul {
+        /* No bullets */
+        list-style: none;
+        padding-left: 0;
+    }
+    li {
+        margin-bottom: 4px;
+    }
+    img {
+        width: 100%;
+        border: 1px solid #555;
+        border-radius: 4px;
+    }
+</style>

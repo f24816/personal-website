@@ -1,0 +1,9 @@
+---
+import FormattedDate from "./FormattedDate.astro";
+const { topic, pubDate } = Astro.props;
+---
+
+<div class="line-content flex justify-center items-center">
+    <p class="bg-fill px-3"><b>{topic.toUpperCase()}</b> <i class="px-1">•</i> <FormattedDate date={pubDate}/></p>
+</div>
+<hr class="w-full mt-[-29px]" />

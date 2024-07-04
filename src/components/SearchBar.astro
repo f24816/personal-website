@@ -1,0 +1,94 @@
+---
+import Search from "astro-pagefind/components/Search";
+---
+
+<button id="fake-search" class="rounded-full fake-search flex items-center gap-2">
+    <img class="pl-[2px] py-[3px] mt-[1px]" src="/search.svg" width="12"/>
+    <p class="text-[#888] pr-[16rem]">Search</p>
+</button>
+<div class="search-background">
+    <div class="search-container">
+        <Search id="search" className="pagefind-ui" uiOptions={{ showImages: false }} />
+    </div>
+</div>
+
+<script lang="js" is:inline>
+    // If fake-search is clicked inside show the search search-background
+    document.getElementById('fake-search').addEventListener('click', function() {
+        document.querySelector('.search-background').style.display = 'block';
+        // Set focus on the search box so you can type in it
+        document.querySelector('.pagefind-ui input').focus();
+    });
+    // If click in the search-background but not the container, hide the search-background
+    document.querySelector('.search-background').addEventListener('click', function(e) {
+        if (e.target!== this) {
+            return;
+        }
+        document.querySelector('.search-background').style.display = 'none';
+    });
+</script>
+
+<style is:global>
+    .search-container {
+        position: fixed;
+        top: 4rem;
+        left: 50%;
+        transform: translate(-50%, 0);
+        width: 500px;
+    }
+    .search-background {
+        display: none;
+        position: fixed;
+        z-index: 2;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        backdrop-filter: blur(10px);
+    }
+    :root {
+        --pagefind-ui-scale: 0.8;
+        --pagefind-ui-height: 20px;
+        --pagefind-ui-text: #dddddd;
+        --pagefind-ui-background: #232323;
+        --pagefind-ui-border: #2d2d2d;
+        --pagefind-ui-tag: #eeeeee;
+        --pagefind-ui-border-width: 2px;
+        --pagefind-ui-border-radius: 8px;
+        --pagefind-ui-image-border-radius: 8px;
+        --pagefind-ui-image-box-ratio: 16 / 9;
+        --pagefind-ui-font: sans-serif;
+    }
+    .pagefind-ui__drawer {
+        background-color: #1c1c1c;
+        border: 2px solid var(--pagefind-ui-border);
+        border-radius: 4px;
+        padding: 30px 30px;
+        max-height: 70vh;
+        overflow: scroll;
+        margin-top: 10px;
+        font-family: "Inter", sans-serif !important;
+
+    }
+    .pagefind-ui__results-area {
+        margin-top: 0 !important;
+    }
+    .pagefind-ui__search-input {
+        font-family: "Inter", sans-serif !important;
+    }
+    .pagefind-ui__message {
+        padding-top: 0 !important;
+        color: #888;
+    }
+    .pagefind-ui__search-clear {
+        font-family: "Inter", sans-serif !important;
+        font-size: 13px !important;
+    }
+    .pagefind-ui__result-excerpt {
+        padding-top: 8px;
+        color: #888;
+    }
+    .pagefind-ui__button {
+        color: #fff !important;
+    }
+</style>

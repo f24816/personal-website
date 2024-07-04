@@ -1,0 +1,33 @@
+---
+import SearchBar from "../components/SearchBar.astro";
+
+---
+
+<header>
+    <div class="navigation flex flex-1 flex-row items-center pr-4">
+        <a href="/"><p class="title pr-4">f24816</p></a>
+        <nav class="nav flex flex-row gap-4">
+            <p class="nav-item"><a href="/resources">Resources</a></p>
+            <p class="nav-item"><a href="/portfolio">Portfolio</a></p>
+            <p class="nav-item"><a href="/about">About</a></p>
+        </nav>
+    </div>
+    <div class="search flex flex-1 flex-row justify-center">
+        <SearchBar/>
+    </div>
+    <div class="tools flex flex-1 flex-row justify-end items-center pl-4 gap-3">
+        <nav class="nav flex flex-row gap-4">
+            <p class="nav-item"><a href="https://form.jotform.com/231973723081356" target="_blank">Contact</a></p>
+        </nav>
+        <!-- TODO: Random button -->
+        <form class="flex" action="https://www.researchgate.net/profile/Yung-Sheng-Chen/publication/10801911/figure/fig3/AS:809856378347521@1570096215659/a-and-b-show-the-50-white-noise-generated-by-a-random-number-generator-in-C.ppm" target="_blank">
+            <input type="image" src="/surprise_me.svg" width="18"/>
+        </form>
+        <!-- TODO: Theme switch js -->
+        <input type="checkbox" id="checkboxInput" checked>
+            <label for="checkboxInput" class="toggleSwitch">
+                <img src="/theme_icons.svg" alt="Toggle Switch" width="34px" height="34px">
+            </label>
+        </input>
+    </div>
+</header>

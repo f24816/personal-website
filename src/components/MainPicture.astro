@@ -1,0 +1,12 @@
+---
+const { image } = Astro.props;
+---
+
+<div class="main-pic" style={`background-image: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%, rgba(2,2,2,0.9) 120%), url(${image});`}></div>
+<div class="text-[#CECDC3] -mt-[55px] pl-4 pb-4 flex items-center gap-2">
+    <img src="/f24816.jpg" width="34" height="34" class="rounded-full border-[#444] border-2 border-solid" />
+    <div>
+        <p class="my-0 text-sm font-bold">Andrei Valentin</p>
+        <p class="my-0 text-[#aaa] text-sm">Author</p>
+    </div>
+</div>

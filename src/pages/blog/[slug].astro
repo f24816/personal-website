@@ -1,0 +1,44 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+import InfoBar from "../../components/InfoBar.astro";
+import MainPicture from "../../components/MainPicture.astro";
+import TableofContents from "../../components/TableofContents.astro";
+// 1. Generate a new path for every collection entry
+export async function getStaticPaths() {
+    const blogEntries = await getCollection("blog");
+    return blogEntries.map((entry) => ({
+        params: { slug: entry.slug },
+        props: { entry: entry },
+    }));
+}
+// 2. For your template, you can get the entry directly from the prop and call it "post"
+const { entry: post } = Astro.props;
+// 3. Render the entry to HTML
+const { Content } = await post.render();
+
+const image = post.data.image || "https://picsum.photos/id/1000/1600/900";
+const alt = post.data.alt || "Image";
+const description = post.body.substring(0, 120);
+---
+
+<Layout title={post.data.title} , image={image} , description={description}>
+    <!-- TODO: Clean up this code -->
+    <div id="centered">
+        <h1>{post.data.title}</h1>
+        <InfoBar topic={post.data.topic} , pubDate={post.data.pubDate} />
+        <MainPicture image={image} />
+        <div class="mt-[-45px] pb-4 flex items-center justify-end mb-6">
+            <p class="text-[13px] pr-4">{alt}</p>
+        </div>
+        <TableofContents body={post.body} />
+        <main>
+            <Content />
+        </main>
+        <div class="line-bg flex justify-center items-center">
+            <p class="bg-fill px-4 font-bold"><i>🙤</i>⠀ fin. ⠀<i>🙦</i></p>
+        </div>
+        <hr class="w-full mt-[-30px]" />
+        <br/>
+    </div>
+</Layout>
