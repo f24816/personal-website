@@ -1,8 +1,8 @@
 ---
 title: Ce sunt și cum funcționează culorile primare?
 author: Andrei Valentin
-image: https://mir-s3-cdn-cf.behance.net/project_modules/fs/d4087969245149.5b7a84e2c8a78.jpg
-alt: Picture by Baptiste Gourgouillon
+image: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8e5cebe1-7f03-4576-96b4-f30df5884111/d6fucg5-dca1519e-8604-4b44-a9bc-0e267e3afa14.jpg/v1/fill/w_890,h_897,q_70,strp/color_wheel_by_ktpdragon_d6fucg5-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAzMiIsInBhdGgiOiJcL2ZcLzhlNWNlYmUxLTdmMDMtNDU3Ni05NmI0LWYzMGRmNTg4NDExMVwvZDZmdWNnNS1kY2ExNTE5ZS04NjA0LTRiNDQtYTliYy0wZTI2N2UzYWZhMTQuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.XbvWaV1Z8qBI9mbrki_N9SzP7CCMg03-HgZo49rUXXs
+alt: Picture by @ktpdragon
 topic: art
 pubDate: 2023-08-25
 ---

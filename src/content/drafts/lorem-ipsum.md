@@ -1,9 +1,10 @@
 ---
 title: Lorem Markdownum
 author: Andrei Valentin
-image: https://picsum.photos/id/341/1600/900
+image: https://images.pexels.com/photos/416024/pexels-photo-416024.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
 alt: Picture by @estevanmaito
 topic: random
+revision: 4
 pubDate: 2021-07-08
 ---
 

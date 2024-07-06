@@ -2,17 +2,17 @@
 import { getCollection } from "astro:content";
 import Layout from "../layouts/Layout.astro";
 import FormattedDate from "../components/FormattedDate.astro";
+import MainPicture from "../components/MainPicture.astro";
 
 const blogEntries = await getCollection("blog");
 ---
 
 <!-- TODO: RSS Feed -->
-<Layout title="Astro">
+<Layout title="Andrei (f24816)">
     <div class="large" id="centered">
         <h1>Blog</h1>
         <br />
-        <!-- TODO: Replace with custom media queries -->
-        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+        <div class="post-grid">
             {
                 blogEntries.map((entry) => (
                     <div>
@@ -20,45 +20,83 @@ const blogEntries = await getCollection("blog");
                             <div
                                 class="post_box"
                                 style={`background-image: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%, rgba(2,2,2,0.9) 120%), url(${entry.data.image});`}
-                            ></div>
+                            >
+                            </div>
                         </a>
-                        <div class="info py-4 pb-4">
-                            <p class="date-topic my-1 ">
-                                {entry.data.topic.toUpperCase()}{" "}
-                                <b class="mx-1">•</b>{" "}
-                                <FormattedDate date={entry.data.pubDate} />
-                            </p>
-                            <p class="sm-title my-3">{entry.data.title}</p>
-                            <p class="description">{entry.body.substring(0, 80).split(" ").slice(0, -1).join(" ") + "..."}</p>
+                        <div class="info py-2 pb-4">
+                            <a href={`/blog/${entry.slug}`}><p class="sm-title my-2">{entry.data.title}</p></a>
+                            <p class="description pb-4">{entry.body.substring(0, 120).split(" ").slice(0, -1).join(" ").replace("## ", "") + "..."}</p>
                         </div>
                     </div>
                 ))
             }
         </div>
+        <br/>
     </div>
 </Layout>
 
-<style>
+<style lang="scss">
+    .post-grid {
+        display: grid;
+        gap: 1rem;
+    }
+    @media screen and (min-width: 600px) {
+        .post-grid {
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+    }
+    @media screen and (min-width: 900px) {
+        .post-grid {
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+    }
+    @media screen and (min-width: 1100px) {
+        .post-grid {
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+        }
+    }
+    @media screen and (min-width: 1300px) {
+        .post-grid {
+            grid-template-columns: repeat(4, minmax(0, 1fr));
+        }
+    }
+    @media screen and (min-width: 1700px) {
+        .post-grid {
+            grid-template-columns: repeat(5, minmax(0, 1fr));
+        }
+    }
+    @media screen and (min-width: 2000px) {
+        .post-grid {
+            grid-template-columns: repeat(6, minmax(0, 1fr));
+        }
+    }
     .date-topic {
-        color: #bbb5ae;
-        font-weight: 500;
-        font-size: 0.8rem;
-        font-family: "Inter", sans-serif;
+        font-size: 13px;
+    }
+    .date-topic p {
+        font-size: 14px;
+    }
+    .date-topic {
+        border-radius: 4px;
+        padding: 0 1rem;
+        border: 1px solid #303030 ;
     }
     .sm-title {
         color: #bbb5ae;
-        font-size: 1.2rem;
-        font-weight: 600;
+        font-size: 1.3rem;
+        font-weight: 500;
         text-decoration: none;
         font-family: "Inter", sans-serif;
     }
     .description {
-        color: #767471;
-        font-size: 1rem;
+        margin: 0;
+        text-align: justify;
+        color: #5e5b5b;
+        font-size: 14px;
     }
     .post_box {
         border: 1px solid #303030;
-        border-radius: 8px;
+        border-radius: 4px;
 
         background-size: cover;
         background-position: center;
@@ -67,10 +105,9 @@ const blogEntries = await getCollection("blog");
         width: 100%;
         aspect-ratio: 16 / 9;
     }
-    .post_box:hover {
-        border: 1px solid #555;
+    a:hover {
+        text-decoration: none;
     }
-
     ul {
         /* No bullets */
         list-style: none;
@@ -78,5 +115,8 @@ const blogEntries = await getCollection("blog");
     }
     li {
         margin-bottom: 4px;
+    }
+    .sm-title:hover {
+        color: white;
     }
 </style>

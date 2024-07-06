@@ -18,15 +18,15 @@ const { entry: post } = Astro.props;
 const { Content } = await post.render();
 
 const image = post.data.image || "https://picsum.photos/id/1000/1600/900";
-const alt = post.data.alt || "Image";
-const description = post.body.substring(0, 120);
+const alt = post.data.alt || "";
+const description = post.body.substring(0, 120).split(" ").slice(0, -1).join(" ").replace("## ", "") + "...";
 ---
 
 <Layout title={post.data.title} , image={image} , description={description}>
     <!-- TODO: Clean up this code -->
     <div id="centered">
         <h1>{post.data.title}</h1>
-        <InfoBar topic={post.data.topic} , pubDate={post.data.pubDate} />
+        <InfoBar topic={post.data.topic} , pubDate={post.data.pubDate}, revision={post.data.revision} />
         <MainPicture image={image} />
         <div class="mt-[-45px] pb-4 flex items-center justify-end mb-6">
             <p class="text-[13px] pr-4">{alt}</p>
