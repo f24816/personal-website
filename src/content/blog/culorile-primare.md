@@ -1,8 +1,9 @@
 ---
 title: 'Ce sunt și cum funcționează culorile primare?'
+author: 'Andrei Valentin'
 image: 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f783559e-f29e-4ac1-baf4-d7e837f8ddf6/d1bb06a-124273d9-cfd1-4e71-b210-65adf96e1796.jpg/v1/fit/w_600,h_400,q_70,strp/at_the_end_of_the_rainbow__by_shanonaut_d1bb06a-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDAwIiwicGF0aCI6IlwvZlwvZjc4MzU1OWUtZjI5ZS00YWMxLWJhZjQtZDdlODM3ZjhkZGY2XC9kMWJiMDZhLTEyNDI3M2Q5LWNmZDEtNGU3MS1iMjEwLTY1YWRmOTZlMTc5Ni5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.EvLAPEG-w-o0r80c_CqgPf_qSHk8xdxxeGT5q7N3Ad0'
 alt: 'Picture by @shanonaut'
-pubDate: '2023-08-25'
+pubDate: 2023-08-25
 topic: 'art'
 ---
 La școală învățăm culorile primare, care sunt roșu galben și albastru și că aceste culori sunt într-un fel principale pentru că ele pot fi combinate pentru a forma culori secundare, terțiare și toate culorile curcubeului doar amestecându-le pe paletă.
