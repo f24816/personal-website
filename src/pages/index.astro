@@ -7,11 +7,10 @@ import MainPicture from "../components/MainPicture.astro";
 const blogEntries = await getCollection("blog");
 ---
 
-<!-- TODO: RSS Feed -->
 <Layout title="Andrei (f24816)">
     <div class="large" id="centered">
-        <h1>Blog</h1>
-        <br />
+        <h1>📰 Articles</h1>
+        <br/>
         <div class="post-grid">
             {
                 blogEntries.map((entry) => (
@@ -25,7 +24,7 @@ const blogEntries = await getCollection("blog");
                         </a>
                         <div class="info py-2 pb-4">
                             <a href={`/blog/${entry.slug}`}><p class="sm-title my-2">{entry.data.title}</p></a>
-                            <p class="description pb-4">{entry.body.substring(0, 120).split(" ").slice(0, -1).join(" ").replace("## ", "") + "..."}</p>
+                            <p class="description pb-4">{entry.body.substring(0, 140).split(" ").slice(0, -1).join(" ").replace("## ", "") + "..."}</p>
                         </div>
                     </div>
                 ))

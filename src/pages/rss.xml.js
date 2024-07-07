@@ -14,8 +14,9 @@ export async function GET(context) {
         items: blog.map((post) => ({
             title: post.data.title,
             pubDate: post.data.pubDate,
-            content: sanitizeHtml(parser.render(post.body), {
-                allowedTags: sanitizeHtml.defaults.allowedTags.concat(['img'])
+            content: sanitizeHtml(parser.render(post.body.replace(/<iframe\s+.*?<\/iframe>/g, ''))
+                .replace(/<img\s+src="([^"]+)"[^>]*>/g, '<a href="$1" target="_blank">Image</a>'), {
+                allowedTags: sanitizeHtml.defaults.allowedTags.concat(['a'])
             }),
             // Compute RSS link from post `slug`
             // This example assumes all posts are rendered as `/blog/[slug]` routes
