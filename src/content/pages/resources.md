@@ -21,7 +21,7 @@
 - [Paintable](https://paintable.cc/academy/)
 - [Drawabox](https://drawabox.com/)
 - [davidmkessler](https://www.davidmkessler.com/blog/23789/value-studies-the-artists-essential-tool)
-- [http://www.floobynooby.com/ICG/artvalues.html](http://www.floobynooby.com/ICG/artvalues.html)
+- [Techniques for Photoshop](http://www.floobynooby.com/ICG/artvalues.html)
 
 **AI Generated Art Gallery**
 - [https://openart.ai/community](https://openart.ai/community)
@@ -32,21 +32,20 @@
 
 ## Books
 
-- [Anna's Library](https://annas-archive.org/) is by far the best one.
-
 **Books**
+- [Anna's Library](https://annas-archive.org/)
 - [Google Search for Books](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco)
 - [http://libgen.is/](http://libgen.is/)
-- Z-lib (currenty only works with [TOR](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/))
-- [https://www.pdfdrive.com/](https://www.pdfdrive.com/)
-- [http://library.memoryoftheworld.org/](http://library.memoryoftheworld.org/)
-- [https://it-ebooks.info/](https://it-ebooks.info/)
-- [http://www.textbooknova.com/](http://www.textbooknova.com/)
+- Z-lib ([Onion Link](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/))
+- [pdfdrive.com/](https://www.pdfdrive.com/)
+- [library.memoryoftheworld.org/](http://library.memoryoftheworld.org/)
+- [it-ebooks.info/](https://it-ebooks.info/)
+- [textbooknova.com/](http://www.textbooknova.com/)
 
 **Articles**
-- [https://sci-hub.se/](https://sci-hub.se/)
-- [https://arxiv.org/](https://arxiv.org/)
-- [https://scribfree.com/](https://scribfree.com/)
+- [sci-hub.se/](https://sci-hub.se/)
+- [arxiv.org/](https://arxiv.org/)
+- [scribfree.com/](https://scribfree.com/)
 
 ## Web Design
 
@@ -54,9 +53,9 @@
 
 ## Music
 
-- [https://rhythm-lab.com/breakbeats](https://rhythm-lab.com/breakbeats)
-- [https://hvoyaaudio.itch.io/ribs](https://hvoyaaudio.itch.io/ribs)
-- [https://www.warmplace.ru/soft/sunvox/](https://www.warmplace.ru/soft/sunvox/)
+- [rhythm-lab.com/breakbeats](https://rhythm-lab.com/breakbeats)
+- [hhvoyaaudio.itch.io/ribs](https://hvoyaaudio.itch.io/ribs)
+- [www.warmplace.ru/soft/sunvox/](https://www.warmplace.ru/soft/sunvox/)
 - [Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view/)
 
 ## D.O.N.G

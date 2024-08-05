@@ -9,7 +9,7 @@ const blogEntries = await getCollection("blog");
 
 <Layout title="Andrei (f24816)">
     <div class="large" id="centered">
-        <h1>📰 Articles</h1>
+        <h1>My Articles</h1>
         <br/>
         <div class="post-grid">
             {
@@ -24,7 +24,7 @@ const blogEntries = await getCollection("blog");
                         </a>
                         <div class="info py-2 pb-4">
                             <a href={`/blog/${entry.slug}`}><p class="sm-title my-2">{entry.data.title}</p></a>
-                            <p class="description pb-4">{entry.body.substring(0, 140).split(" ").slice(0, -1).join(" ").replace("## ", "") + "..."}</p>
+                            <p class="description pb-4">{entry.body.substring(0, 100).split(" ").slice(0, -1).join(" ").replace("## ", "") + "..."}</p>
                         </div>
                     </div>
                 ))
@@ -83,13 +83,12 @@ const blogEntries = await getCollection("blog");
     .sm-title {
         color: #bbb5ae;
         font-size: 1.3rem;
-        font-weight: 500;
+        font-weight: 600;
         text-decoration: none;
         font-family: "Inter", sans-serif;
     }
     .description {
         margin: 0;
-        text-align: justify;
         color: #5e5b5b;
         font-size: 14px;
     }
