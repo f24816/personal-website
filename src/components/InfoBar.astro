@@ -6,10 +6,10 @@ const { topic, pubDate, revision } = Astro.props;
 <div class="line-content flex items-center">
     <p class="bg-fill pr-3">
         <b>{topic.toUpperCase()}</b>
-        <i class="px-1"> / </i>
+        <i class="px-1"> | </i>
         <FormattedDate date={pubDate}/>
 
-        <b>{revision !== undefined && <span><i class="px-1"> / </i>Rev.{revision}</span>}</b>
+        <b>{revision !== undefined && <span><i class="px-1"> | </i>Rev.{revision}</span>}</b>
     </p>
 </div>
 <hr class="w-full mt-[-29px] mb-9" />
