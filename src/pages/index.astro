@@ -23,8 +23,9 @@ const blogEntries = await getCollection("blog");
                             </div>
                         </a>
                         <div class="info py-2 pb-4">
+                            <p class="topic">{entry.data.topic.toUpperCase()}</p>
                             <a href={`/blog/${entry.slug}`}><p class="sm-title my-2">{entry.data.title}</p></a>
-                            <p class="description pb-4">{entry.body.substring(0, 100).split(" ").slice(0, -1).join(" ").replace("## ", "") + "..."}</p>
+                            <p class="description pb-4">{entry.body.substring(0, 90).split(" ").slice(0, -1).join(" ").replace("## ", "") + "..."}</p>
                         </div>
                     </div>
                 ))
@@ -69,27 +70,24 @@ const blogEntries = await getCollection("blog");
             grid-template-columns: repeat(6, minmax(0, 1fr));
         }
     }
-    .date-topic {
-        font-size: 13px;
-    }
-    .date-topic p {
+    .topic {
+        margin: 10px 0;
         font-size: 14px;
-    }
-    .date-topic {
+        background-color: #242424;
+        width: fit-content;
+        padding: 0.1rem 0.5rem;
         border-radius: 4px;
-        padding: 0 1rem;
-        border: 1px solid #303030 ;
     }
     .sm-title {
         color: #bbb5ae;
-        font-size: 1.3rem;
+        font-size: 1.4rem;
         font-weight: 600;
         text-decoration: none;
         font-family: "Inter", sans-serif;
     }
     .description {
         margin: 0;
-        color: #5e5b5b;
+        color: #6d6a6a;
         font-size: 14px;
     }
     .post_box {

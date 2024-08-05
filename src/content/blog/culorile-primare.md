@@ -4,7 +4,7 @@ author: 'Andrei Valentin'
 image: 'https://i.postimg.cc/HW5fh5xg/at-the-end-of-the-rainbow-by-shanonaut.jpg'
 alt: 'Picture by @shanonaut'
 pubDate: 2023-08-25
-topic: 'art'
+topic: 'art & design'
 ---
 La școală învățăm culorile primare, care sunt roșu galben și albastru și că aceste culori sunt într-un fel principale pentru că ele pot fi combinate pentru a forma culori secundare, terțiare și toate culorile curcubeului doar amestecându-le pe paletă.
 

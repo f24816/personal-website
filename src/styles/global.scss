@@ -186,6 +186,18 @@ p>code {
     padding: 0 4px;
     margin-right: 4px;
 }
+table {
+    margin: 2rem 1rem;
+    table-layout: fixed;
+    border-collapse: collapse;
+    color: #999;
+    th {
+        padding-bottom: 1rem;
+    }
+    td {
+        padding: 4px 10px;
+    }
+}
 
 main img {
     border-radius: 4px;
