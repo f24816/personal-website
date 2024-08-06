@@ -26,7 +26,7 @@ Două dulapuri de bucătărie din lemn de nuc pe exterior cu un interior de brad
 ![](https://i.imgur.com/1QxWyVD.jpeg)
 ![](https://i.imgur.com/pVsOoTO.jpeg)
 
-Țara de origine este Austria, de asemenea cunoaștem și faptul că fostul proprietar îl folosea pentru depozitarea materialelor de cusut, ace și alte ustensile, care au fost găsite în ambele dulapuri cât și o ștampilă de la un așa-numit Doctor pe măsuța de scris din partea de sus. Setul de ace și măsuța de scris ne indică faptul că perioada în care au fost făcute dulapurile trebuie să fie pe la mijlocul secolului XX, cel mai probabil anii 50' sau chiar mai devreme.
+Țara de origine este Austria, de asemenea cunoaștem și faptul că s-au găsit materialelor de cusut, ace și alte ustensile, cât și o ștampilă de la un așa-numit Doctor pe măsuța de scris din partea de sus. Setul de ace și măsuța de scris ne indică faptul că perioada în care au fost făcute dulapurile trebuie să fie mijloc de secolul XX, cel mai probabil anii 50' sau chiar mai devreme.
 
 Nu este o operă de artă în nici-un caz dar este o piesă ceva mai rară, nu am găsit multe exemple de mobilier similar din această perioadă, cel mai apropiat ar fii stilul de mobilier din Toscana, o regiune a Italiei. Având în vedere calitatea este posibil ca aceasta să fie adusă din Italia unui client austriac cu gusturi bune și o avere pe măsură.
 
