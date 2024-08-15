@@ -1,11 +1,17 @@
 ---
 import { getCollection } from "astro:content";
-import Layout from "../layouts/Layout.astro";
-import { Image } from "astro:assets";
 import { getImage } from "astro:assets";
+import Layout from "../layouts/Layout.astro";
 
 const blogEntries = await getCollection("blog");
 const fallbackImage = "https://picsum.photos/200";
+
+// Sort blog entries by publication date in descending order
+blogEntries.sort((a, b) => {
+    const dateA = Date.parse(a.data.pubDate.toString());
+    const dateB = Date.parse(b.data.pubDate.toString());
+    return dateB - dateA;
+});
 
 // Generate thumbnails for each entry
 const thumbnails = await Promise.all(
@@ -27,7 +33,7 @@ const thumbnails = await Promise.all(
                         <a href={`/blog/${entry.slug}`}>
                             <div
                                 class="post_box"
-                                style={`background-image: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%, rgba(2,2,2,0.9) 120%), url('${thumbnails[index].src}');`}
+                                style={`background-image: linear-gradient(#fff0 0%, #fff0 50%, #020202e6 120%), url('${thumbnails[index].src}');`}
                             ></div>
                         </a>
                         <div class="info py-2 pb-4">
