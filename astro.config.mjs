@@ -1,4 +1,4 @@
-import { defineConfig } from "astro/config";
+import { defineConfig, squooshImageService } from 'astro/config';
 import tailwind from "@astrojs/tailwind";
 import pagefind from "astro-pagefind";
 import vercel from '@astrojs/vercel/serverless';
@@ -17,4 +17,8 @@ export default defineConfig({
         }),
         pagefind()
     ],
+    image: {
+        // This lets astro:assets work with remote images
+        remotePatterns: [{ protocol: "https" }],
+    }
 });
