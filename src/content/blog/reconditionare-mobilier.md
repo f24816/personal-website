@@ -9,7 +9,7 @@ topic: 'woodworking'
 Pe scurt, depinde cât de veche și deteriorată este mobila. Necesită unelte și materiale și un efort cu mult mai mare decât asamblarea de mobilă nou cumpărată de la Ikea. Dar e *vintage*, iar în cazul nostru cu tot cu materialele o să coste oricum cu mult mai puțin, deci ce avem de pierdut până la urmă?
 ## Alegerea mobilierului
 
-Cum ne alegem mobilierul pentru recondiționare? În primul rând trebuie să găsim mobilier care nu a fost sau nu este în acel moment atacat de carii de lemn sau alte insecte xilofage. Un semn al infestării cu carii de lemn este pulberea de lemn sau rumegușul fin și găurile lasate în urmă, uneori mai puțin vizibile, pe suprafața lemnului. Tratarea cariilor este un proces anevoios și costisitor. De reținut este faptul că aceste insecte xilofage prefera rășinoasele precum fag, mesteacăn, cireș sau arin. Mai rar lemnul dur precum nucul și stejarul.
+Cum ne alegem mobilierul pentru recondiționare? În primul rând trebuie să găsim mobilier care nu a fost sau nu este în acel moment atacat de carii de lemn sau alte insecte xilofage. Un semn al infestării cu carii de lemn este pulberea de lemn sau rumegușul fin și găurile lăsate în urmă, uneori mai puțin vizibile, pe suprafața lemnului. Tratarea cariilor este un proces anevoios și costisitor. De reținut este faptul că aceste insecte xilofage prefera rășinoasele precum fag, mesteacăn, cireș sau arin. Mai rar lemnul dur precum nucul și stejarul.
 
 De asemenea trebuie să verificăm dacă mobila are bucăți lipsă, sculptură sau bucăți rupte care trebuie să fie înlocuite. Poate să devină foarte complicat și față de o piesă de mobilier care are nevoie doar de mici ajustări.
 ## Ce am găsit?
@@ -22,7 +22,7 @@ Două dulapuri de bucătărie din lemn de nuc pe exterior cu un interior de brad
 ![](https://i.imgur.com/1QxWyVD.jpeg)
 ![](https://i.imgur.com/pVsOoTO.jpeg)
 
-Țara de origine este Austria, de asemenea cunoaștem și faptul că s-au găsit materialelor de cusut, ace și alte ustensile, cât și o ștampilă de la un așa-numit Doctor pe măsuța de scris din partea de sus. Setul de ace și măsuța de scris ne indică faptul că perioada în care au fost făcute dulapurile trebuie să fie mijloc de secol XX, cel mai probabil anii 50' sau chiar mai devreme.
+Țara de origine este Austria, s-au găsit materialelor de cusut, ace și alte ustensile, cât și o ștampilă de la un așa-numit Doctor pe măsuța de scris din partea de sus. Setul de ace și măsuța de scris ne indică faptul că perioada în care au fost făcute dulapurile trebuie să fie mijloc de secol XX, cel mai probabil anii 50' sau chiar mai devreme.
 
 Nu este o operă de artă în nici-un caz dar este o piesă ceva mai rară, nu am găsit multe exemple de mobilier similar din această perioadă, cel mai apropiat ar fii stilul de mobilier din Toscana, o regiune a Italiei. Având în vedere calitatea este posibil ca aceasta să fie adusă din Italia unui client austriac cu gusturi bune și o avere pe măsură.
 
@@ -39,7 +39,7 @@ Am folosit decapant pentru a da jos stratul de lac și baiț. Am aplicat decapan
 ![](https://i.imgur.com/UoWAy0W.jpeg)
 *Dificultăți în demontarea ușilor*
 
-Pentru a demonta ușile a trebuit să deșurubăm balamalele. Un lucrcu trivial dacă unul dintre șuruburi nu ar fi fost rupt. E unul dintre momentele în care realizezi că e nevoie de mai multă de muncă pentru a recondiționa ceva, față de o simplă curățare și repictare. În final am scos șurubul blocat cu o combinație de ciocan și bormașină. Zona afectată nu împiedică funcționalitatea dulapului, deci putem spune că am avut noroc și nu a trebuit să înlocuim nimic.
+Pentru a demonta ușile a trebuit să deșurubăm balamalele. Un lucru trivial dacă unul dintre șuruburi nu ar fi fost rupt. E unul dintre momentele în care realizezi că e nevoie de mai multă de muncă pentru a recondiționa ceva, față de o simplă curățare și repictare. În final am scos șurubul blocat cu o combinație de ciocan și bormașină. Zona afectată nu împiedică funcționalitatea dulapului, deci putem spune că am avut noroc și nu a trebuit să înlocuim nimic.
 
 ![](https://i.imgur.com/7lOFEOE.jpeg)
 *Îndreptarea ușilor cu menghina*
@@ -84,6 +84,6 @@ Rezultatul final este strălucitor, deși temporar deoarece stratul de baiț fus
 | Dulapul Mic  | 200 RON | ~200 RON  |
 | Dulapul Mare | 400 RON | ~200 RON  |
 
-Deci un total de 1.000 RON pentru ambele, nu sună rău, pentru două astfel de dulapuri construite din lemn masiv prețul pieței se situează în jur de 4.200 RON asta fără să luăm în calcul blatul de marmură, sculptura incredibilă și greu de găsit în ziua de azi și vechimea lor.
+Deci un total de 1.000 RON pentru ambele, nu sună rău, pentru două astfel de dulapuri construite din lemn masiv prețul pieței se situează undeva pe la 4.200 RON. Asta fără să luăm în calcul blatul de marmură, sculptura incredibilă și greu de găsit în ziua de azi și vechimea lor.
 
-În concluzie recondiționarea de piese de mobilier vechi poate fi o alegere bună în unele cazuri dar nu aș recomanda nimănui să arunce sume substanțiale așa cum am făcut-o eu, pentru că poate să dureze mult timp și să coste mult mai mult reparațiile decât cumpărarea de mobilă nouă. Dacă nu ești fan mobilă *vintage*, nu ai un client și vrei mobilă ieftină, recondiționarea nu este pentru tine. Este o decizie mai responsabilă financiar să-ți cumperi mobilă din PAL sau MDF, second hand sau chiar nouă, dacă te ține portofelul.
+În concluzie recondiționarea de piese de mobilier vechi poate fi o alegere bună în unele cazuri dar nu aș recomanda nimănui să arunce sume considerabile așa cum am făcut-o eu, pentru că poate să dureze mult timp și să coste mult mai mult în final decât valorează mobila în sine. Dacă nu ești fan mobilă *vintage*, nu ai un client pentru care o recondiționezi și vrei mobilă ieftină, atunci nu este pentru tine. O decizie mai responsabilă financiar este să-ți cumperi mobilă din PAL sau MDF, second hand sau chiar nouă, dacă te ține portofelul.

@@ -1,10 +1,18 @@
 ---
 import { getCollection } from "astro:content";
 import Layout from "../layouts/Layout.astro";
-import FormattedDate from "../components/FormattedDate.astro";
-import MainPicture from "../components/MainPicture.astro";
+import { Image } from "astro:assets"
+import { getImage } from "astro:assets";
 
 const blogEntries = await getCollection("blog");
+const fallbackImage = "https://picsum.photos/200";
+
+const optimizedImages = await Promise.all(
+  blogEntries.map(async (entry) => {
+    const imageSrc = entry.data.image || fallbackImage;
+    return await getImage({ src: imageSrc, width: 16, height: 9 });
+  })
+);
 ---
 
 <Layout title="Andrei (f24816)">
@@ -13,12 +21,12 @@ const blogEntries = await getCollection("blog");
         <br/>
         <div class="post-grid">
             {
-                blogEntries.map((entry) => (
+                blogEntries.map((entry, index) => (
                     <div>
                         <a href={`/blog/${entry.slug}`}>
                             <div
                                 class="post_box"
-                                style={`background-image: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%, rgba(2,2,2,0.9) 120%), url(${entry.data.image});`}
+                                style={`background-image: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%, rgba(2,2,2,0.9) 120%), url('${optimizedImages[index].src}');`}
                             >
                             </div>
                         </a>
