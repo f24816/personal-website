@@ -79,6 +79,13 @@ footer {
     }
 }
 @media (max-width: 600px) {
+    // Make font smaller for mobile
+    h1 {
+        font-size: 2rem !important;
+    }
+    main p {
+        font-size: 15px;
+    }
     header {
         .tools {
             display: none;
@@ -110,9 +117,6 @@ header .title {
 }
 header .title:hover {
     color: #f24816;
-}
-#title {
-    font-size: 2.4rem;
 }
 .bg-fill {
     background-color: $background-color;
@@ -156,6 +160,10 @@ hr {
 }
 .footnotes ol li p {
     margin: 0;
+}
+
+#title {
+    font-size: 2.4rem;
 }
 
 h1,
