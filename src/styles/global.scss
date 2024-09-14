@@ -143,6 +143,14 @@ hr {
     font-style: normal;
 }
 
+.footnotes {
+    margin-top: 1rem;
+    border-top: 1px solid $background-border;
+}
+.footnotes ol li p {
+    margin: 0;
+}
+
 h1,
 h2,
 h3,

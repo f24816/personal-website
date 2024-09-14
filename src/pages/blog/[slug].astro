@@ -30,7 +30,7 @@ const description = post.body.substring(0, 140).split(" ").slice(0, -1).join(" "
         <div class="mt-[-45px] pb-4 flex items-center justify-end mb-6">
             <p class="text-[13px] pr-4">{alt}</p>
         </div>
-        <TableofContents body={post.body} />
+        <TableofContents body={post.body} enable={post.data.toc}/>
         <main>
             <Content />
         </main>

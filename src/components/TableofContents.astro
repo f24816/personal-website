@@ -26,6 +26,11 @@ if (subtitles == null || subtitles.length < 3) {
     return;
 }
 
+// Don't render if the enable flag is false
+if (Astro.props.enable === false) {
+    return;
+}
+
 // Replace the Markdown heading with an HTML heading depengin on the level
 const headings : string[] = [];
 
