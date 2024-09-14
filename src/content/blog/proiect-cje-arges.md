@@ -18,7 +18,6 @@ Numele proiectului am aflat mai târziu era „Proiect [E]”. Nu a existat pân
 
 Interesant e faptul că Robert a postat în August 2020 pe un [forum de SAMP](https://www.sa-mp.ro/forums/topic/34563-ucp-laravel-robert-seghedi-2020-version-legat-cu-forum-ips/) o prezentare a unui astfel de panou de admin pentru jocul GTA San Andreas pe care l-a creat sau editat. Utilizatorul *max* răspunde la această postare cu „sincer o parnae de panel care nici nu respecta arhitecutara laravel mai bine faceai cu modele si queryurile in controale”. Deci înțeleg de ce nu l-a făcut el.
 
-
 ![](https://i.imgur.com/bgYuqaJ.png)
 
 Trebuie să menționez și că au existat două grupuri, unul de anunțuri pe care l-am atașat deasupra și un grup de discuții pe care puteam trimite mesaje. Eu am fost destul de *vocal* pe acel grup, și doream să mă implic, dacă nu practic atunci să ofer feedback și să propun moduri în care putem să realizam ceva care să ajute elevii să învețe cu ajutorul internetului. Mai multe despre propunerile mele mai târziu, acum să ne întoarcem la Proiectul E care avea să devină *colegul.ro*.
@@ -74,7 +73,7 @@ Robert totuși pare că a fost interesat mai mult de lumea politică decât de f
 
 Un partid de care nici-un om cu *onoare* și interesat de educație și bunăstarea elevilor nu s-ar atinge, pare totuși să fie **OK** pentru șeful CJE Argeș. 👌
 
-![](https://scontent.fotp5-1.fna.fbcdn.net/v/t1.6435-9/144050040_429820771692332_2963892243514726586_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=chwJX_zwfTYQ7kNvgF78Iei&_nc_ht=scontent.fotp5-1.fna&oh=00_AYBOC_ZzOUP5Ffo4ED0AdAu-2Sp2yQDjjnR2v8tEPGnr1g&oe=670B975F)
+![](https://i.imgur.com/BQqc5G1.jpeg)
 *Robert la „o discuție cu reprezentanții PNL privind sistemul educațional din România”*
 
 Mi-ar lua prea mult timp să menționez toate motivele pentru care PNL a eșuat să rezolve problemele din educație, rata abandonului școlar, cu cel mai crescut nivel din ultimul deceniu conform INS. Nu au existat acțiuni care să schimbe rezultatele academice și satisfacția elevilor în cei 10 ani de președinție a lui Johannis, *omul* cu „România Educată”. Cei mai mulți specialiști spun că este un dezastru ce se întâmplă și din punct de vedere economic.
