@@ -6,7 +6,7 @@ alt: ''
 pubDate: 2024-08-06
 topic: 'politics'
 ---
-La sfârșitul anului 2020, în timp ce eram elev în clasa a XI-a la Liceul de Arte Dinu Lipatti Pitești iar niște colege care în același au fost alese democratic să facă parte din instituția de reprezentare studențească a consiliului elevilor. Tot de la ele primesc și un chestionar, făcut pentru a mă alătura unui grup de „feedback” pentru un proiect de al lor.
+La sfârșitul anului 2020, în timp ce eram elev în clasa a XI-a la Liceul de Arte Dinu Lipatti Pitești niște colege au fost alese democratic să facă parte din instituția de reprezentare studențească a Consiliului Elevilor. Tot de la ele primesc și un chestionar, făcut pentru a mă alătura unui grup de „feedback” pentru un proiect nou al CJE Argeș.
 
 După completarea acestui chestionar intru într-un grup de WhatsApp. Acest grup avea ca scop adunarea de elevi care ar vrea să ajute Consiliul Elevilor la realizarea unui proiect, anume, o platformă de e-learning. Nu era clar ce o să fie platforma, cunoaștem doar că voia să ajute într-un fel experiența de școală online pe care am avut-o în pandemie, imediat după ce s-au închis școlile și am fost nevoiți să stăm ore în șir pe Zoom închiși în casă în fața unui ecran pe post de școală. 
 
