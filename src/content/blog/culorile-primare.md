@@ -19,19 +19,28 @@ Imaginea de sus e folosită adesea ca ghid pentru amestecul culorilor, problema 
 
 Dacă vreau să pictez un peisaj de vară este clar că primarele acestea nu-mi mai sunt așa de esențiale, in schimb optăm pentru o gamă de culori mai largă cum ar fi verde lime, ocru și desigur turcoaz. Astfel obținem culori vii și mai apropiate de realitate.
 
-Totuși, ce sunt culorile primare și de ce se predau la școală? Suntem mințiți pe față de sistemul de învățământ și profesori că culorile drapelului țării sunt cele mai importante? Nu chiar. Culorile primare, după definiție, sunt un set de culori care pot fi combinate pentru a forma alte culori. Problema ar fi că după această definiție aproape orice culoare poate fi primară, cea ce este complet adevărat. Culorile primare sunt de fapt, culorile cu care începem să formăm o gamă de culori.
+Totuși, ce sunt culorile primare și de ce se predau la școală? Suntem mințiți pe față de sistemul de învățământ și profesori? Nu chiar. Culorile primare, după definiție, sunt un set de culori care pot fi combinate pentru a forma alte culori. Problema ar fi că după această definiție aproape orice culoare poate fi primară, cea ce este adevărat. Culorile primare sunt, de fapt, culorile cu care începem să formăm o gamă de culori.
 
 ![](https://beedevildesign.files.wordpress.com/2017/05/color_gamut.png)
 *Gama de culori vizibilă, RGB și CMYK*
 
-Dar noi nu ne referim la asta când spunem că cele trei sunt culori primare, ci la faptul că sunt într-un fel elementare și pentru că putem să le folosim pentru a obținem toată gama de culori vizibile sau cel puțin ce-a mai mare parte din ea. Ei bine în cazul ăsta Roșu Galben și Albastru nu sunt folosite deloc pe post de culori elementare sau de bază în industrie.
+Dar noi nu ne referim la asta când spunem că cele trei sunt culori primare, ci la faptul că sunt într-un fel elementare și pentru că putem să le folosim pentru a obținem toată gama de culori vizibile sau cel puțin ce-a mai mare parte din ea. Ei bine în cazul ăsta Roșu Galben și Albastru nu sunt folosite deloc pe post de culori elementare. Defapt, sunt un grup de culori destul de limitat, motivul pentru care sunt folosite este pentru că pot forma, mai ușor culorile pe care o are pielea omului (și aici mă refer și la cei de culoare).
 
-Cian Magenta și Galben (CMYK) au fost dintotdeauna culorile de bază folosite pentru imprimare, iar în fabricarea de ecrane LCD, LED, OLED etc. sunt folosite culorile Roșu Verde și Albastru (RGB). Asta pentru că există doar două tipuri de amestec al culorilor, cel substractiv și cel aditiv. Amestecul substractiv despre care vorbim acum, se întâmplă cu pigmenții, pentru că ei nu emit lumină ci o absorb.
-
-În acest caz, fizic vorbind, ar trebui să folosim Cian Galben și Magenta în loc de Roșu Galben și Albastru deoarece (în limita pigmenților) ele pot fi combinate să formeze ce-a mai mare parte din gama de culori. Asta include amestecul vopselelor, acilului, tempera etc.
+Cian Magenta și Galben (CMYK) au fost dintotdeauna culorile de bază folosite pentru imprimare, iar în fabricarea de ecrane LCD, LED, OLED etc. sunt folosite culorile Roșu Verde și Albastru (RGB). Asta pentru că există doar două tipuri de amestec al culorilor, cel substractiv și cel aditiv. Amestecul substractiv despre care vorbim acum, se întâmplă cu pigmenții, pentru că ei nu emit lumină ci o absorb. Asta înseamnă că CMY sunt culorile primare? În principiu da, dar problema este mult mai complicată și nu putem da un răspuns singular de 3 culori care satisfac toate cerințele noastre.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/vXBf_puKt_c" title="Limited CMY palette design oil painting mixing, demo 1.2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Dar asta nu înseamnă că trebuie să folosim doar culorile primare în pictură, un mod de a obține culorile dorite care este folosit mai mereu de artiști este folosirea altor pigmenți. Verde smarald, oxid de cupru, roșu cadmiu etc. Începătorilor le este recomandat să folosească culorile primare pentru a înțelege cum funcționează amestecul culorilor și pentru a învăța să le folosească într-un mod eficient. Însă pentru a obține divers se culori și este bine să înțelegem limitele și avantajele fiecărui pigment și mai ales să nu ne oprim la a folosii doar Roșu Galben și Albastru în pictură.
+Nu trebuie să folosim doar culorile primare în pictură, un mod de a obține culorile dorite care este folosit mai mereu de artiști este folosirea altor pigmenți. Verde smarald, oxid de cupru, roșu cadmiu etc. Începătorilor le este recomandat să folosească doar primarele pentru a înțelege cum funcționează amestecul culorilor. Dar, trebuie să înțelegem și că fiecare pigment are limitele și avantajele lui.
+
+Cel mai bun grup de culori primare pe care le poți folosi este o combinație de 6 culori:
+
+- Lemon Yellow — Galben Primar (rece) / #ffff00
+- Cadmium Yellow — Galben Cadmiu (cald) / #fcae0a
+- Magenta — Crimson Alizarin (rece) / #e8014a
+- Vermilion — Roșu Oranj (cald) / #da2800
+- Phthalo blue — Ultramarin / #020d95
+- Cyan — Turcoaz / #02a3d1
+
+Din care putem exclude pe rând pentru a obține un grup mai mic, de 5 culori dacă scoatem Galben Primar (rece), de 4 culori dacă înlocuim cele două nuanțe de albastru cu una care se află între cele două, anume Albastru Medium sau Ceruleum.
 
 În final vă sugerez un creator pe [TikTok](https://www.tiktok.com/@color.nerd) care face videoclipuri despre culorii și pigmenți, care m-a inspirat să scriu acest articol. Vizionare plăcută!
