@@ -109,7 +109,7 @@ Ministerul cu bani publici și cu ajutorul industriei IT prea cunoscută din Rom
 
 Toate aceste lucruri puteau să fie implementate în decurs de câteva luni dacă nu săptămâni de *niște băieți*. Sau dacă nu, atunci de către un ONG. Costurile acestei platforme? Minimale, singurul lucru care ar costa cu adevărat este rețeaua de distribuit documente care trebuie să existe împreună cu arhivă la nivel național.
 
-Practic un sistem mai egal în care banii să nu conteze și la care toată lumea are acces. Sună utopic, poate chiar a socialism 👻 dar asta pentru că se bazează pe aceleași principii. Așa cum spune Paulo Freire, un educator și filosof marxist brazilian, nu putem separa politica de educația. La fel cum nu sunt luate astfel de măsuri în educație — pentru că ar deranja status-quo-ul — același lucru se întâmplă cu restul problemelor politice.
+Practic un sistem mai egal în care banii să nu conteze și la care toată lumea are acces. Sună utopic, poate chiar a socialism 👻 dar asta pentru că se bazează pe aceleași principii. Așa cum spune Paulo Freire, un educator și filosof marxist brazilian, nu putem separa politica de educație și vice versa. La fel cum nu sunt luate astfel de măsuri în educație — pentru că ar deranja status-quo-ul — același lucru se întâmplă cu restul problemelor politice.
 
 > „Rolul ideologiei capitaliste nu este de a argumenta în mod explicit pentru ceva în felul în care o face propaganda, ci de a ascunde faptul că operațiunile capitalului nu depind de niciun fel de o credință asumată subiectiv.” — Mark Fisher, [Realism capitalist: Nu există nicio alternativă?](https://www.google.com/search?client=firefox-b-d&q=realism+capitalit)
 

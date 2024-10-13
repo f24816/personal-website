@@ -1,8 +1,8 @@
 ---
 title: 'Ce sunt și cum funcționează culorile primare?'
 author: 'Andrei Valentin'
-image: 'https://i.postimg.cc/HW5fh5xg/at-the-end-of-the-rainbow-by-shanonaut.jpg'
-alt: 'Picture by @shanonaut'
+image: 'https://images.unsplash.com/photo-1618513462042-29ac20aefe11?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+alt: 'Picture by @starrynite'
 pubDate: 2023-08-25
 topic: 'art & design'
 ---
