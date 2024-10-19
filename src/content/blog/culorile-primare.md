@@ -19,7 +19,7 @@ Dacă vreau să pictez un peisaj de vară este clar că primarele acestea nu-mi 
 
 Totuși, ce sunt culorile primare și de ce se predau la școală? Suntem mințiți de către întreg sistemul de învățământ și profesori? Nu chiar. Culorile primare, după definiție, sunt un set de culori care pot fi combinate pentru a forma alte culori. Deci după această definiție aproape orice grup de culori pot fi primare.
 
-![](https://i.imgur.com/ccvcsKP.png)
+![](https://i.imgur.com/ZNQyvI4.png)
 *Modelul ștințific al amestecului de pigmenți*
 
 Dar noi nu ne referim la asta când spunem că cele trei sunt culori primare, ci la faptul că sunt într-un fel elementare și pentru că putem să le folosim pentru a obținem toată gama de culori vizibile sau cel puțin ce-a mai mare parte din ea. Ei bine în cazul ăsta Roșu Galben și Albastru nu sunt folosite deloc pe post de culori elementare. Defapt, e un grup de culori destul de limitat în ceea ce privește amestecul de culori.
