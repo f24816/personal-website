@@ -10,6 +10,8 @@
 - [Nude Photo Magazine](https://archive.org/details/The_New_Nude_Photo_Magazine_Premiere_Issue/mode/2up)
 - [Sketchfab](https://sketchfab.com/3d-models/popular)
 - [Asaro Head](https://sketchfab.com/3d-models/asaro-head-9d26548182f8465a8e97371a9170561e)
+- [Human Skull](https://sketchfab.com/3d-models/human-skull-replica-7a22ca606b004c12abb377dc511c31f9)
+- [Animal 3D Skull](https://x6ud.github.io/#/)
 
 **Albums**
 - [Castlevania Art Book](https://www.kotaku.com.au/2018/12/the-art-of-castlevanias-netflix-series/)

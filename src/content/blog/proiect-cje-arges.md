@@ -35,7 +35,9 @@ Robert scrie pe pagina lui de LinkedIn despre Colegul:
 
 Deși site-ul nu este funcțional este destul de clar că vorbim despre același proiect, iar „viitorul educației!” pe care Robert îl propune e doar Chat-GPT, dar pe un alt site... care nu funcționează.
 
-Ok, poate par rău intenționat și site-ul este în dezvoltare, poate s-au făcut niște teste. Atunci de ce s-a început cu site-ul dacă nu există nici-un produs real? De ce platforma are testimoniale deși nu există? De ce au trecut 4 ani de când a fost început proiectul și încă nu există absolut nimic funcțional? Foarte interesant, deci, am săpat mai adânc. ⛏️
+Ok, poate par rău intenționat și site-ul este în dezvoltare, poate s-au făcut niște teste. Atunci de ce s-a început cu site-ul dacă nu există nici-un produs real? De ce platforma are testimoniale deși nu există? De ce au trecut 4 ani de când a fost început proiectul și încă nu există absolut nimic funcțional? Foarte interesant, deci, am săpat mai adânc. 
+
+⛏️
 
 ### Spade Studio
 
@@ -58,6 +60,8 @@ Aceste domenii costă în jur de 15€ pe an, iar găzduirea începe de la aprox
 Costurile nu sunt așa de mari pentru un domeniu dacă ai deja venituri suficiente și publicarea unui site pe Vercel este gratuită, deci e foarte posibil ca Robert să fi făcut aceste site-uri fără să ceară o compensație monetară. Astfel, el dă impresia că are o firmă cu experiență care a avut numeroși clienți, deși datele publice ne dovedesc opusul. 
 
 Robert mai are și un PFA, deci nu putem afirma că este o operațiune frauduloasă — domnule sau doamnă judecător — iar când vine vorba de înființarea firmei, este probabil moștenită de la părinții lui despre care nu știim foarte multe. Dar, din nou, e interesat că a ales să treacă site-ul spade.ro pe numele unei firme cu datorii de 1.778 RON în timp ce lucrează pe PFA. Dar o să vedeți că nu e singurul lucru pe jumătate adevărat cu care Robert încearcă să își creeze o imagine de „băiat deștept”.
+
+🔍
 
 ### SpanVault și finanțarea de la Amazon
 
