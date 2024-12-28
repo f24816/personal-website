@@ -59,13 +59,13 @@ Aceste domenii costă în jur de 15€ pe an, iar găzduirea începe de la aprox
 
 Costurile nu sunt așa de mari pentru un domeniu dacă ai deja venituri suficiente și publicarea unui site pe Vercel este gratuită, deci e foarte posibil ca Robert să fi făcut aceste site-uri fără să ceară o compensație monetară. Astfel, el dă impresia că are o firmă cu experiență care a avut numeroși clienți, deși datele publice ne dovedesc opusul. 
 
-Robert mai are și un PFA, deci nu putem afirma că este o operațiune frauduloasă — domnule sau doamnă judecător — iar când vine vorba de înființarea firmei, este probabil moștenită de la părinții lui despre care nu știim foarte multe. Dar, din nou, e interesat că a ales să treacă site-ul spade.ro pe numele unei firme cu datorii de 1.778 RON în timp ce lucrează pe PFA. Dar o să vedeți că nu e singurul lucru pe jumătate adevărat cu care Robert încearcă să își creeze o imagine de „băiat deștept”.
+Robert mai are și un PFA, deci nu putem afirma că este o operațiune frauduloasă — domnule sau doamnă judecător — iar când vine vorba de înființarea firmei, este probabil moștenită de la părinții lui despre care nu știm foarte multe. Dar, din nou, e interesat că a ales să treacă site-ul spade.ro pe numele unei firme cu datorii de 1.778 RON în timp ce lucrează pe PFA. Dar o să vedeți că nu e singurul lucru pe jumătate adevărat cu care Robert încearcă să își creeze o imagine de „băiat deștept”.
 
 🔍
 
 ### SpanVault și finanțarea de la Amazon
 
-[Adevărul](https://adevarul.ro/) spune despre că Robert a „dezvoltat de patru luni o aplicație ce a atras deja atenția mai multor companii IT din Europa de Vest și America.” și că „a atras deja finanțare de la Amazon” pentru o aplicație care „este practic un concept de inteligență artificială” un „sistem descentralizat, stochează toate produsele digitale de pe glob”.[^3]
+[Adevărul](https://adevarul.ro/) spune despre Robert că „a dezvoltat de patru luni o aplicație ce a atras deja atenția mai multor companii IT din Europa de Vest și America.” și că „a atras deja finanțare de la Amazon” pentru o aplicație care „este practic un concept de inteligență artificială” un „sistem descentralizat, stochează toate produsele digitale de pe glob”.[^3]
 
 ![](https://cdn.adh.reperio.news/image-c/ca3df65e-a27f-4116-b817-c206c07e4168/index.jpeg?p=f%3Djpeg%26w%3D1400%26r%3Dcontain)
 *Robert la Radio România Actualități*
