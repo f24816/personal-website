@@ -57,7 +57,7 @@ Completarea bucăților lipsă a fost făcută tot cu lemn de nuc, extras din bu
 ![](https://i.imgur.com/7l4Qoxa.jpeg)
 *Completări ale sculpturii ușilor*
 
-Partea mea preferată au fost aceste biluțe sculptate pe care am încercat să le facem să fie cât de aproape de original. Am avut de înlocuit câte 2 bile lipsă pentru fiecare set de uși și cred că am făcut o treabă destul de bună.
+Partea mea preferată au fost aceste biluțe sculptate pe care am încercat să le facem să fie cât de aproape de original. Am avut de înlocuit câte 2 bile pentru fiecare set de uși și cred că am făcut o treabă destul de bună.
 
 ![](https://i.imgur.com/7V2e7ud.jpeg)
 *Stratul de email lucios de culoare crem*
@@ -72,7 +72,7 @@ Desigur pentru sertare a trebuit să adăugăm niște completări, bețele răma
 ![](https://i.imgur.com/M1akVo0.png)
 *Aplicarea baițului*
 
-Am folosit desigur baiț pentru nuc, pe baza de rășină alchidică, a păstra aspectul original. Baițul l-a făcut să arate ca nou, când în realitate acesta a fost făcut cu cel puțin 70 de ani în urmă. 
+Am folosit desigur baiț pentru nuc, pe baza de rășină alchidică, pentru a păstra aspectul original. Baițul l-a făcut să arate ca nou, când în realitate acesta a fost făcut cu cel puțin 70 de ani în urmă. 
 
 ![](https://i.imgur.com/SC5RjTI.jpeg)
 *Rezultatul Final*
