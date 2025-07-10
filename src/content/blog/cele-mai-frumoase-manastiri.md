@@ -1,5 +1,5 @@
 ---
-title: 'Cele mai Frumoase Mânăstiri din România'
+title: 'Cele mai Frumoase Mănăstiri din România'
 author: 'Andrei Valentin'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Manastirea_Putna.jpg/1024px-Manastirea_Putna.jpg'
 alt: 'Mănăstirea Putna – VeronicaDumitrescu CC BY-SA 3.0-RO'
@@ -8,7 +8,7 @@ topic: 'travel'
 ---
 Te invit într-o călătorie prin cele mai frumoase mănăstiri din România. Mărturii vii ale istoriei și artei românești, construite adesea în vremuri de încercare, dar păstrate cu devotament peste veacuri. De la bisericile pictate ale Moldovei, cu fresce vibrante și simboluri bizantine, până la lăcașurile de lemn din Maramureș și ctitoriile brâncovenești din Țara Românească, fiecare mănăstire spune o poveste.
 
-### Moldova
+### Mănăstiri din Moldova
 
 **Putna** – Considerată „Jerusalimul neamului românesc”, Mănăstirea Putna este ctitoria lui Ștefan cel Mare, construită între 1466-1469. Este locul de odihnă al marelui voievod și un important centru spiritual și cultural.
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d5/Manastirea_Putna.jpg)
@@ -42,7 +42,7 @@ Te invit într-o călătorie prin cele mai frumoase mănăstiri din România. M�
 ![](https://ziarullumina.ro/thumbs/gallery/2020/12/15/manastirea-varatec-vatra-de-cultura-159755.jpg)
 *Mănăstirea Văratec – Sursa: ziarullumina.ro*
 
-### Transilvania
+### Mănăstiri din Transilvania
 
 **Peri-Săpânța** – Situată în Maramureș, această mănăstire din lemn este inspirată de vechea mănăstire Peri și are unul dintre cele mai înalte turnuri de lemn din lume (75 m).
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Peri_monastery_seen_from_the_entrance%2C_S%C4%83p%C3%A2n%C8%9Ba%2C_2017.jpg/1280px-Peri_monastery_seen_from_the_entrance%2C_S%C4%83p%C3%A2n%C8%9Ba%2C_2017.jpg)
@@ -76,8 +76,7 @@ Te invit într-o călătorie prin cele mai frumoase mănăstiri din România. M�
 ![](https://ziarullumina.ro/thumbs/gallery/2021/09/08/biserica-monument-unesco-de-la-ieud-inchinata-maicii-domnului-183152.webp)
 *Biserica Mănăstirii Ieud – Sursa: ziarullumina.ro*
 
-### Țara Românească
-
+### Mănăstiri din Țara Românească
 
 **Curtea de Argeș** – Una dintre cele mai emblematice mănăstiri din România, ctitorită de Neagoe Basarab. Este cunoscută pentru arhitectura sa spectaculoasă și legenda Meșterului Manole.
 ![](https://upload.wikimedia.org/wikipedia/commons/b/bc/Man_Curtea_de_Arges.SV.jpg)
