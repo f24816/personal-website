@@ -1,11 +1,13 @@
 ---
 title: 'Cele mai Frumoase Mânăstiri din România'
 author: 'Andrei Valentin'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/M%C4%83n%C4%83stirea_Probota_20100721-156.JPG/1024px-M%C4%83n%C4%83stirea_Probota_20100721-156.JPG'
-alt: 'Mănăstirea Probota – Hans A. Rosbach CC BY-SA-3.0'
+image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Manastirea_Putna.jpg/1024px-Manastirea_Putna.jpg'
+alt: 'Mănăstirea Putna – VeronicaDumitrescu CC BY-SA 3.0-RO'
 pubDate: 2025-07-10
 topic: 'travel'
 ---
+Te invit într-o călătorie prin cele mai frumoase mănăstiri din România. Mărturii vii ale istoriei și artei românești, construite adesea în vremuri de încercare, dar păstrate cu devotament peste veacuri. De la bisericile pictate ale Moldovei, cu fresce vibrante și simboluri bizantine, până la lăcașurile de lemn din Maramureș și ctitoriile brâncovenești din Țara Românească, fiecare mănăstire spune o poveste.
+
 ### Moldova
 
 **Putna** – Considerată „Jerusalimul neamului românesc”, Mănăstirea Putna este ctitoria lui Ștefan cel Mare, construită între 1466-1469. Este locul de odihnă al marelui voievod și un important centru spiritual și cultural.
