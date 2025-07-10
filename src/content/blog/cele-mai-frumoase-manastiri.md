@@ -96,8 +96,8 @@ Te invit într-o călătorie prin cele mai frumoase mănăstiri din România. M�
 *Mănăstirea Cozia – Marc1917 CC BY-SA-3.0-RO*
 
 **Pasărea** – Mănăstire de maici fondată în secolul XIX lângă București, este un important centru religios și de asistență socială.
-![](https://ziarullumina.ro/thumbs/gallery/2015/08/31/curaj-jertfa-si-credinta-la-manastirea-pasarea-69932.webp)
-*Mănăstirea Pasărea – Sursa: ziarullumina.ro*
+![](https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrl17J12j9imB8mj3Nyi-FOKA7PbXRAkvFQFVAnSNXj0-GD19n_9szWn7jbpWztklPpqR35DJjD845RMkNAyCBdi-BqneDwJKw7dq3gAhaVWyU-KuAB8v8MSF39fUHji5QU52mI=s1360-w1360-h1020)
+*Mănăstirea Pasărea – Sursa: Florentina Nedelcu*
 
 **Mărcuța** – Una dintre cele mai vechi mănăstiri din zona Bucureștiului, cu o istorie ce începe în secolul XVI. A fost și un centru medical în timpul epidemiilor.
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw_ISYiIC5f-Zg94qGPVOzBe7z2kNheDqqJjWgzzv8cV-JsA30w1MY_X7qMlyWrsRSlxH5S_ibsRSNmU_eliwu1uVc87dez8y3xt7B_sA8ZkwV_nvnmlC0tWRJH3kjA0kDsMshPPDVix4/s1600/Marcuta_ici-colo.ro_DSC_0099_1.jpg)
