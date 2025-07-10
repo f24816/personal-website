@@ -77,9 +77,11 @@ footer {
     }
 }
 @media (max-width: 600px) {
-    // Make font smaller for mobile
+    #alt {
+            display: none;
+    }
     h1 {
-        font-size: 2rem !important;
+        font-size: 1.8rem !important;
     }
     main p {
         font-size: 15px;
