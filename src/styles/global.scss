@@ -1,5 +1,5 @@
-@import "tailwindcss/components";
-@import "tailwindcss/utilities";
+@use "tailwindcss/components";
+@use "tailwindcss/utilities";
 
 $font-stack: Helvetica, sans-serif;
 $background-color: hsl(240, 1%, 8%);
