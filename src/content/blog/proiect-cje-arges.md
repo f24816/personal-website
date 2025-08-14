@@ -6,7 +6,7 @@ alt: ''
 pubDate: 2025-08-14
 topic: 'politics'
 ---
-Dacă aș rezuma articolul ăsta într-o propoziție ar fi „Tu ce faci?” Nu ca pe o invitație la un suc, ci la acțiune politică. Și ca o mică parte din ceva mai mare de care nu am timp să vorbesc și poate nici nu înțeleg în totalitate. Cred că e una dintre primele lucruri pe lista de locuri de vizitat, pe lângă Transfăgărășan și Cascada Bigăr, unul dintre locurile pe care trebuie să le vizităm mai des este viitorul. Cu timpul, a trecut de la unul dintre cele mai tari locuri de vizitat, o utopie în adevăratul sens al cuvântului într-o parcare ceva mai mare și un loc mai mult sau mai puțin asemănător cu lumea în care trăim azi. Și această moarte a viitorului are multe de-a face cu trecutul. Așa că o să ne întoarcem puțin în trecut.
+Cred că pe lista de locuri de vizitat, pe lângă Transfăgărășan și Cascada Bigăr, unul dintre locurile pe care trebuie să le vizităm mai des este viitorul. Cu timpul, a trecut de la unul dintre cele mai tari locuri de vizitat, o utopie în adevăratul sens al cuvântului într-o parcare ceva mai mare și un loc mai mult sau mai puțin asemănător cu lumea în care trăim azi.
 
 La sfârșitul anului 2020, în timp ce eram elev în clasa a XI-a la Liceul de Arte Dinu Lipatti din Pitești, au existat o serie de alegeri, iar câteva din colegele mele de atunci au fost alese să facă parte din instituția de reprezentare studențească a Consiliului Elevilor. Tot de la ele primesc și un chestionar, un formular de înscriere într-un grup de „feedback” pentru un nou proiect al CJE Argeș.
 
