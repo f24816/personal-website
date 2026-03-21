@@ -1,7 +1,7 @@
 ---
 title: 'Cele mai Frumoase Mănăstiri din România'
 author: 'Andrei Valentin'
-image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Manastirea_Putna.jpg/1024px-Manastirea_Putna.jpg'
+image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Manastirea_Putna.jpg/960px-Manastirea_Putna.jpg'
 alt: 'Mănăstirea Putna – VeronicaDumitrescu CC BY-SA 3.0-RO'
 pubDate: 2025-07-10
 topic: 'travel'
